@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bồ à!',
     introDesc: `Tui yêu Bồ nhất trên đời
-    Tui tui hay suy nghĩ này nọ nhưng
+    Tuy tui hay suy nghĩ này nọ nhưng
     Tui mong bồ hỉu đc lý do vì sao 
     Tóm lại Em yêu Anhh nhiều nhiu`,
     btnIntro: 'hihi',
@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bé biết mà 🥰. Yêu Anh nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.'.
-    btnAccept: 'Okiiiii lun <3'.
+    btnAccept: 'Okiiiii lun <3'.`
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
